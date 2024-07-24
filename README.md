@@ -1,1 +1,1 @@
-# SoilQualityControl
+# MediumQualityControl
